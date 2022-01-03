@@ -1,0 +1,16 @@
+.intro__bg-img {
+  background-image: url("../img/bg-bright.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.offcanvas-end {
+  width: 250px;
+}
+
+.intro {
+  height: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */
